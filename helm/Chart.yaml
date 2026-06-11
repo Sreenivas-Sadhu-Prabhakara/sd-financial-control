@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-financial-control
+description: "BIAN Service Domain: Financial Control (Manage pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Financial Control Record"
+  bian/control-record: "Financial Control Record Management Plan"
